@@ -1,0 +1,9 @@
+ntc-training ~/labs/vlan-config (main %) $ cat .gitignore
+output
+ntc-training ~/labs/vlan-config (main %) $ git status
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
